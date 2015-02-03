@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Arsenal](ARSENAL.md)
-   * Project Management Tools
+   * [Project Management Tools](PROJECT_MANAGEMENT_TOOLS.md)
    * [Communication Tools](COMMUNICATION_TOOLS.md)
    * [Issue Management](ISSUE_MANAGEMENT.md)
 * [Project Lifecycle](PROJECT_LIFECYCLE.md)

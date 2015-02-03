@@ -6,10 +6,6 @@ To make processes better, selecting better tools is of utmost importance. We hav
 **This bit focuses on explaining the different tools we use during a project and how do we use them.
 **
 
-## Documentation
-### API documentation
-#### GitHub/BitBucket Wiki
-We use WIKI provided by GitHub and BitBucket to maintain the documentation related with APIs in case of web services. We have found it easier for developers to create using markdown, and easier to maintain.
 ## Code Reviews
 Code review is very very important inside RainingClouds. **Any code that goes into the master branch goes through at-least two different developers.**
 ### Asynchronous Reviews

@@ -14,5 +14,4 @@ But that doesn't mean that existing practices are not good, but we wanted flavor
 
 One of the more important aspect of "How We Work" is the involvement of the client into daily work. But we have taken care that, this doesn't overwhelm client at any point. Client become the core of everything that we do while working on the project, having said that, one of our team member working closely with client for taking decisions. He becomes the single point of contact and bridge between client and RainingClouds. 
 
-We are continuously evaluating our processes and updating it as regularly as possible. 
-
+We evaluate the processes every quarter. We tighten up the processes that work for us and tweak the onces which are causing issues for us.

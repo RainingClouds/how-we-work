@@ -15,6 +15,6 @@
    * [Team Allocation](TEAM_ALLOCATION.md)
    * [Appointing Project Owner](APPOINTING_PROJECT_OWNER.md)
    * [Appointing Technology Owner](APPOINTING_TECHNOLOGY_OWNER.md)
-   * Finalizing Team
+   * [Finalizing Team](FINALIZING_TEAM.md)
 * Iterations
 

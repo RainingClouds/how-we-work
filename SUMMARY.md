@@ -14,7 +14,7 @@
    * [Setting Up tools](SETTING_UP_TOOLS.md)
    * [Team Allocation](TEAM_ALLOCATION.md)
    * [Appointing Project Owner](APPOINTING_PROJECT_OWNER.md)
-   * Appointing Technology Owner
+   * [Appointing Technology Owner](APPOINTING_TECHNOLOGY_OWNER.md)
    * Finalizing Team
 * Iterations
 

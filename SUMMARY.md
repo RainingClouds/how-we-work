@@ -13,4 +13,5 @@
    * [Technology Selection Brainstorming](TECHNOLOGY_SELECTION_BRAINSTORMING.md)
    * [Setting Up tools](SETTING_UP_TOOLS.md)
    * Team Allocation
+   * Appointing Project Owner
 

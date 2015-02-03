@@ -15,4 +15,5 @@
    * Team Allocation
    * Appointing Project Owner
    * Appointing Technology Owner
+   * Finalizing Team
 

@@ -1,1 +1,8 @@
-{}
+{
+    "links": {
+        // Custom links at top of sidebar
+        "sidebar": {
+            "Custom link name": "http://rainingclouds.com"
+        }
+    }
+}

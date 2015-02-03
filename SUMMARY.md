@@ -12,7 +12,7 @@
 * [Project Lifecycle](PROJECT_LIFECYCLE.md)
    * [Technology Selection Brainstorming](TECHNOLOGY_SELECTION_BRAINSTORMING.md)
    * [Setting Up tools](SETTING_UP_TOOLS.md)
-   * Team Allocation
+   * [Team Allocation](TEAM_ALLOCATION.md)
    * Appointing Project Owner
    * Appointing Technology Owner
    * Finalizing Team

@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Arsenal](ARSENAL.md)
-* [Project Lifecycle](project_lifecycle.md)
+* [Project Lifecycle](PROJECT_LIFECYCLE.md)
 

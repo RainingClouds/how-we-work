@@ -14,4 +14,5 @@
    * [Setting Up tools](SETTING_UP_TOOLS.md)
    * Team Allocation
    * Appointing Project Owner
+   * Appointing Technology Owner
 

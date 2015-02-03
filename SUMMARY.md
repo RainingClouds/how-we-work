@@ -11,4 +11,5 @@
    * [Time Logging](TIME_LOGGING.md)
 * [Project Lifecycle](PROJECT_LIFECYCLE.md)
    * [Technology Selection Brainstorming](TECHNOLOGY_SELECTION_BRAINSTORMING.md)
+   * Setting Up tools
 

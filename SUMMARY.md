@@ -6,7 +6,7 @@
    * [Communication Tools](COMMUNICATION_TOOLS.md)
    * [Issue Management](ISSUE_MANAGEMENT.md)
    * [Code Repositories](CODE_REPOSITORIES.md)
-   * Documentation
+   * [Documentation](DOCUMENTATION.md)
    * Code Reviews
    * [Time Logging](TIME_LOGGING.md)
 * [Project Lifecycle](PROJECT_LIFECYCLE.md)

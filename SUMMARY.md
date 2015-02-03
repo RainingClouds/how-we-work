@@ -8,6 +8,7 @@
    * [Code Repositories](CODE_REPOSITORIES.md)
    * Documentation
    * Code Reviews
+   * Time Logging
 * [Project Lifecycle](PROJECT_LIFECYCLE.md)
    * [Sprint Plan Phase](SPRINT_PLAN_PHASE.md)
 

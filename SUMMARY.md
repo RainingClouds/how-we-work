@@ -16,5 +16,5 @@
    * [Appointing Project Owner](APPOINTING_PROJECT_OWNER.md)
    * [Appointing Technology Owner](APPOINTING_TECHNOLOGY_OWNER.md)
    * [Finalizing Team](FINALIZING_TEAM.md)
-* Iterations
+* [Iterations](ITERATIONS.md)
 

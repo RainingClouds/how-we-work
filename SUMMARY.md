@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Project Understanding
+* [Project Understanding](PROJECT_UNDERSTANDING.md)
 * [Technology Selection Brainstorming](TECHNOLOGY_SELECTION_BRAINSTORMING.md)
    * Web
    * Android

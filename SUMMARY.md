@@ -18,4 +18,5 @@
    * [Finalizing Team](FINALIZING_TEAM.md)
 * [Iterations](ITERATIONS.md)
 * [Pricing Model](PRICING_MODEL.md)
+* Design Iteration
 

@@ -6,10 +6,10 @@
    * [Communication Tools](COMMUNICATION_TOOLS.md)
    * [Issue Management](ISSUE_MANAGEMENT.md)
    * [Code Repositories](CODE_REPOSITORIES.md)
+   * Continous Integration
    * [Documentation](DOCUMENTATION.md)
    * [Code Reviews](CODE_REVIEWS.md)
    * [Time Logging](TIME_LOGGING.md)
-   * Continous Integration
 * [Technology Selection & Team Building](TECH_SELECTION_N_TEAM_BUILDING.md)
    * [Technology Selection Brainstorming](TECHNOLOGY_SELECTION_BRAINSTORMING.md)
    * [Setting Up tools](SETTING_UP_TOOLS.md)

@@ -1,6 +1,6 @@
 # Pricing Model
 
-We offer either Time-N-Material or Retention pricing model to the clients. 
+We offer either Time-N-Material to the clients. 
 
 ### Time and Material Pricing Model
 
@@ -8,16 +8,11 @@ We price projects at a per person, per week rate. It is based on the time spent 
 
 In this type of pricing model, invoices are raised at the end of the week.
 
-### Retention model
-
 ## Why do we say no to fixed cost models ?
 
 We feel that clients never have the exact understanding of the entire project. Even if they do, the understanding evolves during the development.
 
-***
 **Case Study**
-
-(We are not allowed to disclose there name by the company, they are also not part of our portfolio as they had requested to us.)
 
 We were working on an Android application for one of our client in Boston. Client was a technical one, and came up with a fixed set of features. They were very prepared, and seemed to have a clear understanding about the end picture. The task was to create something like Uber for buses. We were supposed to work on driver Android application and Rider applications on Android and iOS. 
 

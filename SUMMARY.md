@@ -8,7 +8,7 @@
    * [Appointing Project Owner](APPOINTING_PROJECT_OWNER.md)
    * [Appointing Technology Owner](APPOINTING_TECHNOLOGY_OWNER.md)
    * [Finalizing Team](FINALIZING_TEAM.md)
-* [Arsenal](ARSENAL.md)
+* [Tools](ARSENAL.md)
    * [Project Management Tools](PROJECT_MANAGEMENT_TOOLS.md)
    * [Communication Tools](COMMUNICATION_TOOLS.md)
    * [Issue Management](ISSUE_MANAGEMENT.md)

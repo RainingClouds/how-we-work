@@ -5,6 +5,7 @@
 * [Technology Selection Brainstorming](TECHNOLOGY_SELECTION_BRAINSTORMING.md)
    * Web
    * Android
+   * iOS
 * [Team Building](TEAM_BUILDING.md)
    * [Team Allocation](TEAM_ALLOCATION.md)
    * [Appointing Project Owner](APPOINTING_PROJECT_OWNER.md)

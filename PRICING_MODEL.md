@@ -1,17 +1,12 @@
 # Pricing Model
 
-In this bit, we explain about the pricing model that we offer to the clients. 
-
-There are different pricing models out there like fixed cost model, time and material model, retention model.
-
-## We offer Time-N-Material or Retention pricing model to client
-We offer either Time-N-Material or Retention pricing model to the clients (We explain why do we say not to fixed cost model in the next bit). 
+We offer either Time-N-Material or Retention pricing model to the clients. 
 
 ### Time and Material Pricing Model
 
-Time and Material pricing model, as name suggests, is based on the time spent on the project in hours. We apply the latest /hr cost * total hours spent on by the developers on a sprint would be the payable amount for the client.
+We price projects at a per person, per week rate. It is based on the time spent on the project in hours. We apply the hourly rate * total hours spent on by the developers on a sprint would be the payable amount for the client.
 
-In this type of pricing model, invoices are raised after every two sprints (if we are going with weekly sprints) or after every sprint (if we are going with biweekly sprints).
+In this type of pricing model, invoices are raised at the end of the week.
 
 ### Retention model
 

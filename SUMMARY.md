@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* Project Understanding
 * [Arsenal](ARSENAL.md)
    * [Project Management Tools](PROJECT_MANAGEMENT_TOOLS.md)
    * [Communication Tools](COMMUNICATION_TOOLS.md)
@@ -20,5 +21,4 @@
 * [Design Iteration](DESIGN_ITERATION.md)
 * [Iterations](ITERATIONS.md)
 * [Pricing Model](PRICING_MODEL.md)
-* Project Understanding
 

@@ -1,6 +1,6 @@
 # Pricing Model
 
-We offer either Time-N-Material to the clients.
+We offer Time-N-Material model to the clients.
 
 ### Time and Material Pricing Model
 

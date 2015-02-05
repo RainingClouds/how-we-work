@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * Project Understanding
+* [Technology Selection Brainstorming](TECHNOLOGY_SELECTION_BRAINSTORMING.md)
 * [Arsenal](ARSENAL.md)
    * [Project Management Tools](PROJECT_MANAGEMENT_TOOLS.md)
    * [Communication Tools](COMMUNICATION_TOOLS.md)
@@ -12,7 +13,6 @@
    * [Code Reviews](CODE_REVIEWS.md)
    * [Time Logging](TIME_LOGGING.md)
 * [Team Building](TEAM_BUILDING.md)
-   * [Technology Selection Brainstorming](TECHNOLOGY_SELECTION_BRAINSTORMING.md)
    * [Setting Up tools](SETTING_UP_TOOLS.md)
    * [Team Allocation](TEAM_ALLOCATION.md)
    * [Appointing Project Owner](APPOINTING_PROJECT_OWNER.md)

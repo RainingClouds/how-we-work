@@ -9,7 +9,7 @@
    * [Documentation](DOCUMENTATION.md)
    * [Code Reviews](CODE_REVIEWS.md)
    * [Time Logging](TIME_LOGGING.md)
-* [Project Lifecycle](PROJECT_LIFECYCLE.md)
+* [Technology Selection & Team Building](TECH_SELECTION_N_TEAM_BUILDING.md)
    * [Technology Selection Brainstorming](TECHNOLOGY_SELECTION_BRAINSTORMING.md)
    * [Setting Up tools](SETTING_UP_TOOLS.md)
    * [Team Allocation](TEAM_ALLOCATION.md)

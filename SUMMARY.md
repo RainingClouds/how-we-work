@@ -17,6 +17,6 @@
    * [Appointing Technology Owner](APPOINTING_TECHNOLOGY_OWNER.md)
    * [Finalizing Team](FINALIZING_TEAM.md)
 * [Iterations](ITERATIONS.md)
-* Design Iteration
+* [Design Iteration](DESIGN_ITERATION.md)
 * [Pricing Model](PRICING_MODEL.md)
 

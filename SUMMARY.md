@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [Technology Selection Brainstorming](TECHNOLOGY_SELECTION_BRAINSTORMING.md)
 * Project Understanding
+* [Technology Selection Brainstorming](TECHNOLOGY_SELECTION_BRAINSTORMING.md)
 * [Arsenal](ARSENAL.md)
    * [Project Management Tools](PROJECT_MANAGEMENT_TOOLS.md)
    * [Communication Tools](COMMUNICATION_TOOLS.md)

@@ -20,4 +20,5 @@
 * [Design Iteration](DESIGN_ITERATION.md)
 * [Iterations](ITERATIONS.md)
 * [Pricing Model](PRICING_MODEL.md)
+* Project Understanding
 

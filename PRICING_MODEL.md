@@ -9,7 +9,7 @@ We raise the invoices at the end of the week and clients are expected to pay the
 
 ## NO to Fixed Cost Model
 
-With a Fixed-Price model, you build specification in the beginning, which means you are effectively making serious decisions when you have the least amount of information. You can’t change (or it gets difficult / expensive to change) when you learn.
+With a Fixed-Price model, you build specification in the beginning, which means you are effectively making serious decisions when you have the least amount of information. You can’t change (or it gets difficult / expensive to change) when you learn. We think accurate, long-term estimations are virtually impossible to make
 
 **Case Study**
 

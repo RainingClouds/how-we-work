@@ -16,7 +16,7 @@
    * [Communication Tools](COMMUNICATION_TOOLS.md)
    * [Issue Management](ISSUE_MANAGEMENT.md)
    * [Code Repositories](CODE_REPOSITORIES.md)
-   * Continuous Integration
+   * [Continuous Integration](CONTINUOUS_INTEGRATION.md)
    * [Documentation](DOCUMENTATION.md)
    * [Code Reviews](CODE_REVIEWS.md)
    * [Time Logging](TIME_LOGGING.md)

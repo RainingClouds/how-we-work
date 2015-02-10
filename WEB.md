@@ -1,2 +1,2 @@
 # Web
-
+There are various parameters for landing upon a particular set of technology for web applications. **Time constraints**, **client preferences**, **ready made pluggins in the project domain**, **existing competitors technology preferences and their experience**,**our preferences and experience** are a few if them.

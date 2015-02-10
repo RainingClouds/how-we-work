@@ -5,9 +5,44 @@ If using some framework, or technology is must for a project, and if we don't ha
 
 We maintain a technology battlefield, which is basically a list of technologies, that we think, are going to be dominant, and we start learning those. 
 
-## Our expertise for web applications
+## What do we offer for web applications ?
 ### Golang
 We love Golang, every bit of it. And we are one of the early adopters of Golang for web applications as well. Till date (Feb 2015), we have written in all, 5 web applications in Golang, and using different frameworks.
+
+There are many advantages of using Golang over other languages for writing web applications.
+
+***
+When we built the first version of IronWorker, about 3 years ago, it was written in Ruby and the API was built on Rails. It didn’t take long for us to start getting some pretty heavy load and we quickly reached the limits of our Ruby setup. Long story short, we switched to Go. For the long story, keep reading, here's how things went down. - Iron.io
+[(source)](http://blog.iron.io/2013/03/how-we-went-from-30-servers-to-2-go.html)
+
+And yes they have talked about some of the issues as well - 
+
+I can confidently say that after two years working with Go, we made the right choice. If we had started Iron.io today, it would have been a no brainer to choose it. A lot of other companies are using it now too including Heroku and Google and the people I talk to about it all have similar opinions. +Rob Pike, one of the creators of Go said:
+“We realized that the kind of software we build at Google is not always served well by the languages we had available,” Pike said in 2011. “Robert Griesemer, Ken Thompson, and myself decided to make a language that would be very good for writing the kinds of programs we write at Google.”
+
+ +Derek Collison, the founder of Apcera, said recently in a Wired article:
+“The management layers and infrastructure layers of the newer technologies that provide this cloud delivery model?” he tells Wired. “Within two years, a majority will be written in Go.” 
+Is Go the next gen language we've been waiting for. It's a bit too early to say, but it's certainly off to a good start. 
+[(source)](http://blog.iron.io/2013/08/go-after-2-years-in-production.html)
+
+***
+| Param | Golang | Ruby on Rails |
+| -- | -- | -- |
+| Samples | 20,000 | 20,000 |
+| Errors | 0 | 0 |
+| Average | 8ms | 187ms |
+| Median | 5ms | 163ms |
+|90%|20ms| 214ms |
+| Max | 90ms | 178,552ms  |
+| Min | 1ms | 9ms |
+| Throughput | 4691.79 requests/s  | 88.9 requests/s|
+| Memory usage | 10MBs | 117 MBs |
+
+Go (1.2),Rails (Rails 4, Ruby 2.0, production mode, puma web)
+
+Benchmarks by Matt Aimonetti [(source)](https://plus.google.com/+MattAimonetti/posts/PeZk8FY3PWY)
+
+****
 
 **Advantages:**
 
@@ -24,6 +59,11 @@ We love Golang, every bit of it. And we are one of the early adopters of Golang 
 3. The packages distributed with Go are pretty useful, but there are still some libraries you'll miss. Most notably a UI toolkit.
 4. There is no support for generics in Go, although there are many discussions around it.
 
+[Source for above points](http://stackoverflow.com/a/2200447/769189)
+****
+We can keep on bragging about, why Golang is right choice for writing next gen web applications. [Here](https://code.google.com/p/go-wiki/wiki/GoUsers) is the list of organizations using Golang.
 
 ### Scala
+Scala is JVM language with functional approach. Scala is the first choice of [twitter](https://twitter.com) for JVM based languages.
+
 ### Java 1.8

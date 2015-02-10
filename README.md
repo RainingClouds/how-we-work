@@ -1,4 +1,3 @@
-RainingClouds Inc
 #Introduction
 
 This e-book is basically the articulation of the culture and code of conduct that we follow inside RainingClouds. This is written and maintained to train everybody who's coming inside the company as well as for the potential customers who want to know about RainingClouds.

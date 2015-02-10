@@ -63,7 +63,24 @@ Benchmarks by Matt Aimonetti [(source)](https://plus.google.com/+MattAimonetti/p
 ****
 We can keep on bragging about, why Golang is right choice for writing next gen web applications. [Here](https://code.google.com/p/go-wiki/wiki/GoUsers) is the list of organizations using Golang.
 
-### Scala
-Scala is JVM language with functional approach. Scala is the first choice of [twitter](https://twitter.com) for JVM based languages.
+### Scala with Play framework
+Scala is JVM language with functional approach. Scala is the first choice of [twitter](https://twitter.com) for JVM based languages [(source)](http://www.infoq.com/articles/twitter-java-use). We love functional approach for solving problems.
 
-### Java 1.8
+We write web applications in scala using [Play Framework](https://www.playframework.com/), which is robust, faster and based on [netty](http://netty.io/).
+
+### Java 1.8 with Play Framework
+Java 1.8 removes most of the reasons, why people shifted onto Scala.
+
+1. Lambda Expressions, a new language feature, has been introduced in this release. They enable you to treat functionality as a method argument, or code as data. Lambda expressions let you express instances of single-method interfaces (referred to as functional interfaces) more compactly.
+2. Method references provide easy-to-read lambda expressions for methods that already have a name.
+3. Default methods enable new functionality to be added to the interfaces of libraries and ensure binary compatibility with code written for older versions of those interfaces.
+4. Repeating Annotations provide the ability to apply the same annotation type more than once to the same declaration or type use.
+5. Type Annotations provide the ability to apply an annotation anywhere a type is used, not just on a declaration. Used with a pluggable type system, this feature enables improved type checking of your code.
+6. Method parameter reflection.
+7. Improved type inference.
+
+ [source](http://www.oracle.com/technetwork/java/javase/8-whats-new-2157071.html)
+
+So we also propose going with Java 1.8 and Play framework for the projects that needs to run on JVM.
+
+

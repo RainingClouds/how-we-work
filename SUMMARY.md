@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Project Understanding](PROJECT_UNDERSTANDING.md)
 * [Technology Selection Brainstorming](TECHNOLOGY_SELECTION_BRAINSTORMING.md)
-   * Web
+   * [Web](WEB.md)
    * Android
    * iOS
 * [Team Building](TEAM_BUILDING.md)

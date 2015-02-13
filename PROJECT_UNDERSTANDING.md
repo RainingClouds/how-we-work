@@ -28,6 +28,16 @@ Activities
 2. We ask client to fill up our 'Quest Form'. It focuses on getting your expected inclination details towards product development. We have separate quests for Android, iOS and Web applications. Here is [Android Quest](https://rainingclouds.typeform.com/to/ZolKsb) for reference.
 
 ## Hangouts
+
 In the first week, we have a 30-40 minutes hangout call to understand different aspects about the product like Finalizing features for MVP, Approaches to the problem, Technical possibilities, design patterns, User experience etc.
+
+
+# User's View
+
+We believe in understanding user's perspectives towards the problem. We ask our clients to give a set of 5 ideal users for the product. We schedule a call or One on One meeting with each one of them. We prepare detailed questions around product to  user psyche, usability and discovery of the product.
+
+
+
+
 
 

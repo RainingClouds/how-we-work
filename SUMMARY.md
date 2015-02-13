@@ -22,6 +22,6 @@
    * [Time Logging](TIME_LOGGING.md)
 * [Setting Up tools](SETTING_UP_TOOLS.md)
 * [Design Iteration](DESIGN_ITERATION.md)
-* [Iterations](ITERATIONS.md)
+* [Development Iterations](DEVELOPMENT_ITERATIONS.md)
 * [Pricing Model](PRICING_MODEL.md)
 

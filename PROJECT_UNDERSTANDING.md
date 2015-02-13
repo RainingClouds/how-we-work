@@ -5,7 +5,8 @@ We divide the sprint into two stages:
 1. Client's Product Pitch
 2. User's View
 
-1. Client Product Pitch
+#Client's Product Pitch
+
 We ask our clients to pitch the product to us same like you do with Investors. We involve all the major stakeholders in the conversation and keep video recording of same.
 
 Primary questions that we ponder on:

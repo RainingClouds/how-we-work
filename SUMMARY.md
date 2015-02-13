@@ -20,7 +20,7 @@
    * [Documentation](DOCUMENTATION.md)
    * [Code Reviews](CODE_REVIEWS.md)
    * [Time Logging](TIME_LOGGING.md)
-   * [Setting Up tools](SETTING_UP_TOOLS.md)
+   * [Setup](SETTING_UP_TOOLS.md)
 * [Design Iteration](DESIGN_ITERATION.md)
 * [Development Iterations](DEVELOPMENT_ITERATIONS.md)
 * [Pricing Model](PRICING_MODEL.md)

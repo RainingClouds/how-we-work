@@ -5,7 +5,7 @@ We divide the iteration into User Experience design and User Interface Design.
 #User Experience Design
 We kick-start the work by wire-framing user flows, navigation patterns and organizing content within the app. It helps us to get an overview of the system. We work with latest design principles provided by the platforms like Material design and Skeuomorphic design.
 
-We ask the clients to share actual content instead of using lorem ipsum, it helps to get much closer look while designing the product.
+We ask the clients to share actual content instead of using lorem ipsum, it helps to get much closer feel while designing the product.
 
 We use [Invision](http://www.invisionapp.com/)to create prototype and share it with Client. Clients would get to see the interactive flow of the app and share the feedback asap.
 

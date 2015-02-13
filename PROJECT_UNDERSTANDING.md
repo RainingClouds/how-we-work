@@ -1,5 +1,5 @@
 # Product Understanding Sprint
-It's a critical step to get a clear understanding about the product. This is the time when we are in clients shoes and trying to grasp all the possible thoughts, ideas about the product. The timespan of the sprint would be maximum 5 days.
+It's a critical step to get a clear understanding about the product. This is the time when we are in clients shoes and trying to grasp all the possible thoughts, ideas about the product. The timespan of the sprint would be maximum 5 days. The aim of the sprint is to prepare a product blueprint.  Everything that we discuss during the sprint is ends up in a document that we call as project blueprint. It would be the guiding principle during the entire development.
 
 We divide the sprint into two stages:
 1. Client's Product Pitch
@@ -25,14 +25,9 @@ Goal of the stage:
 Activities
 1. Create a critical path for the users to discover and use the solution offered by the Product.
 
-2. We ask client to fill up our 'Quest Form'. It focuses on getting your expected inclination towards product development. We have separate quests for Android, iOS and Web applications. Here is [Android Quest](https://rainingclouds.typeform.com/to/ZolKsb) for reference.
+2. We ask client to fill up our 'Quest Form'. It focuses on getting your expected inclination details towards product development. We have separate quests for Android, iOS and Web applications. Here is [Android Quest](https://rainingclouds.typeform.com/to/ZolKsb) for reference.
 
 ## Hangouts
 In the first week, we have a 30-40 minutes hangout call to understand different aspects about the product like Finalizing features for MVP, Approaches to the problem, Technical possibilities, design patterns, User experience etc.
-
-## Project Blueprint
-Everything that we discuss during this period is basically ends up in a document that we call as project blueprint. This document keep on amending during the project.
-
-
 
 

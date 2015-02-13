@@ -12,6 +12,6 @@ We use [Invision](http://www.invisionapp.com/)to create prototype and share it w
 #User Interface Design
 We decide color pallet for different components inside the system. As per clients choice of pallet, we prepare multiple versions of few set of screens. Once client approves to go with specific color pallet. We start to design entire app.
 
-Once all the designs are approved we prepare a 'Design Document', which gives a single place to see all the finalized designs/flow etc.
+Once all the designs are approved we prepare a 'Design Document, which gives a single place to see all the finalized designs/flow etc.
 
 We work with 'Design lead development' approach. It means we work on designs first, Get it approved and then go after development of it. Change in design while developing the app becomes hassel for developer.

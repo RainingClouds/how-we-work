@@ -1,8 +1,9 @@
-# Android
-**We strictly say no to HTML5 based or hybrid mobile applications.** We love the capabilities of native Android framework, and we know how to push boundaries to to create a seamless experience for users. 
+# Android / iOS
+**We strictly say no to HTML5 based or hybrid mobile applications.** We only work on native Android and iOS applications. 
 
 **Why not hybrid/html5 apps ?**
 
+When we go for these type of mobile application development, we are losing out on native experience, a chunk of native API accesses, and ofcourse performance. And we are not going with what others are saying, But before taking this decision we have tried a couple of demo applications in PhoneGap, Appcelerator. These are good when we are creating very simple applications without leveraging any advanced features of the platform.
 
 | Native |	HTML5 |	Hybrid | App Features |
 |--|--|--|--|
@@ -22,3 +23,4 @@
 |Connectivity	|Online and offline|	Mostly online|	Online and offline|
 |Development skills	|ObjectiveC, Java	|HTML5, CSS, Javascript |	HTML5, CSS, Javascript|
 
+[(source)](https://developer.salesforce.com/page/Native,_HTML5,_or_Hybrid:_Understanding_Your_Mobile_Application_Development_Options)

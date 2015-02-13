@@ -20,7 +20,7 @@ Primary questions that we ponder on:
 Goal of the stage:
 1. Understanding the problem and the vision about the product.
 2. Understand the logical belief behind the offered solution via product.
-3. Detailed view on target customer person.
+3. Target Customer Persona.
 
 Activities
 1. Create a critical path for the users to discover and use the solution offered by the Product.
@@ -31,11 +31,16 @@ Activities
 
 In the first week, we have a 30-40 minutes hangout call to understand different aspects about the product like Finalizing features for MVP, Approaches to the problem, Technical possibilities, design patterns, User experience etc.
 
-
 # User's View
 
-We believe in understanding user's perspectives towards the problem. We ask our clients to give a set of 5 ideal users for the product. We schedule a call or One on One meeting with each one of them. We prepare detailed questions around product to  user psyche, usability and discovery of the product.
+We believe in understanding target user's perspective towards the problem. We ask our clients to give a set of 5 ideal users for the product. Before that, We prepare detailed questionnaire around problem the product is trying to solve. We schedule a Call or One on One meeting with them. We ask them the questions to understand user psyche, usability and discovery aspect of the product. We do record user interviews for future reference.
 
+Goal of the stage:
+
+1. Understand users point of view towards problem.
+
+Activities
+1. Create a 
 
 
 

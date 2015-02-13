@@ -1,4 +1,4 @@
-# Setting up tools
+# Setup
 Once we are done with the technology selection brainstorming, in parallel we start setting up the tools specific to the project. 
 
 ## Basecamp

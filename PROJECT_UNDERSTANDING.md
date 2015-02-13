@@ -25,7 +25,7 @@ Goal of the stage:
 Activities
 1. Create a critical path for the users to discover and use the solution offered by the Product.
 
-2. We ask client to fill up our 'Quests Forms'. This form focuses on getting primary information related to the project. We have separate quests for Android, iOS and Web applications. Here is [Android Quest](https://rainingclouds.typeform.com/to/ZolKsb) for reference.
+2. We ask client to fill up our 'Quests Forms'. This form focuses on getting primary information related to the product. We have separate quests for Android, iOS and Web applications. Here is [Android Quest](https://rainingclouds.typeform.com/to/ZolKsb) for reference.
 
 ## Hangouts
 In the first week, we have a 30-40 minutes hangout call to understand different aspects about the product like Finalizing features for MVP, Approaches to the problem, Technical possibilities, design patterns, User experience etc.

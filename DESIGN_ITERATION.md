@@ -1,6 +1,6 @@
 # Design Iteration
 
-We divide the iteration phase into User Experience design and User Interface Design.
+We divide the iteration into User Experience design and User Interface Design.
 
 #User Experience Design
 We kick-start the work by wire-framing user flows, navigation patterns and organizing content within the app. It helps us to get an overview of the system. We work with latest design principles provided by the platforms like Material design and Skeuomorphic design.

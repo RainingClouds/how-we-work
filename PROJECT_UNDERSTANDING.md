@@ -28,7 +28,7 @@ Activities
 2. We ask client to fill up our 'Quests Forms'. This form focuses on getting the primary information related to the project. We have separate quests for Android, iOS and Web applications. Here is [Android Quest](https://rainingclouds.typeform.com/to/ZolKsb) for reference.
 
 ## Hangouts
-In the first week, we have a hangout call everyday about project understanding, for around 30-40 mins. During this call we discuss about various aspects of the project like features, competitors, technical limitations, design patterns, UX etc. 
+In the first week, we have a 30-40 minutes hangout call to understand different aspects about the product like Finalizing features for MVP, Approaches to the problem, Technical possibilities, design patterns, User experience etc.
 
 ## Project Blueprint
 Everything that we discuss during this period is basically ends up in a document that we call as project blueprint. This document keep on amending during the project.

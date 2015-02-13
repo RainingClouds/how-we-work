@@ -14,9 +14,4 @@ We decide color pallet for different components inside the system. As per client
 
 Once all the designs are approved we prepare a 'Design Document', which gives a single place to see all the finalized designs/flow etc.
 
-We always work on designs first, Get it approved and then go after development of it. Change in design while developing the app becomes hassel for developer.
-
-
-
-
-
+We work with 'Design lead development' approach. It means we work on designs first, Get it approved and then go after development of it. Change in design while developing the app becomes hassel for developer.

@@ -40,8 +40,6 @@ Goal of the stage:
 1. Understand users point of view towards problem.
 
 Activities
-1. Create a 
-
 
 
 

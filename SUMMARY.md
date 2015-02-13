@@ -4,7 +4,7 @@
 * [Project Understanding](PROJECT_UNDERSTANDING.md)
 * [Technology Selection Brainstorming](TECHNOLOGY_SELECTION_BRAINSTORMING.md)
    * [Web](WEB.md)
-   * [Android](ANDROID.md)
+   * [Android / iOS](ANDROID.md)
 * [Team Building](TEAM_BUILDING.md)
    * [Team Allocation](TEAM_ALLOCATION.md)
    * [Appointing Project Owner](APPOINTING_PROJECT_OWNER.md)

@@ -1,5 +1,5 @@
 # Product Understanding Sprint
-It's a critical step to get a clear understanding about the product. This is the time when we are in clients shoes and trying to grasp all the possible thoughts, ideas about the product.
+It's a critical step to get a clear understanding about the product. This is the time when we are in clients shoes and trying to grasp all the possible thoughts, ideas about the product. The timespan of the sprint would be maximum 5 days.
 
 We divide the sprint into two stages:
 1. Client's Product Pitch
@@ -25,9 +25,7 @@ Goal of the stage:
 Activities
 1. Create a critical path for the users to discover and use the solution offered by the Product.
 
-
-## Quests
-So we have a couple of forms that we make you fill up before starting the project. This form focuses on getting the primary information related to the project. We have separate quests for Android, iOS and web applications. This gives us and also clients, a kick start to the project.
+2. We ask Clients to fill up our 'Quests Forms'. This form focuses on getting the primary information related to the project. We have separate quests for Android, iOS and Web applications. This gives us and also clients, a kick start to the project.
 
 Here is [Android Quest](https://rainingclouds.typeform.com/to/ZolKsb) for reference. Also we get feedbacks from every of our client about these quests, and continuously update them. 
 

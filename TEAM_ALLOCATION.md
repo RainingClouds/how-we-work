@@ -23,9 +23,11 @@ This is initiated once we are done with finalizing the technology stack that we 
        +----------------------------------------+
 ```
 ### Project Owner
+
 Project owner is the main communication point. He will be in constant touch with client, and discussing about the project status, issues, next iteration planning.
 
 #### Responsibilities
+
 1. Understanding the business of the client.
 2. Understanding the use case of the project.
 3. Understanding the customers of the project and studying the competition.
@@ -42,6 +44,7 @@ Project owner is the main communication point. He will be in constant touch with
 7. Approving test cases created by tester and getting it approved from client.
 
 ### Technology Manager
+
 Technology manager takes up the entire technology ownership starting from the IDEs that developers use for development, the small libraries that are being used to major decisions like using Heroku vs AWS, using Scala/Java1.8/Golang. He plays the key role in the initial iterations of the project where everything is heating up. 
 
 As he has the key role to play for the development, he usually communicates more with Project Owner about the issues, changes in the technology stack. Project owner is the one who has the responsibility of communicating this to the client. If at all, there are any conflicts then Client, Project Owner and Technology owner hop on a call and resolve it. All these things are expected to be documented and pushed onto the Basecamp as either a page, or a discussion.
@@ -49,6 +52,7 @@ As he has the key role to play for the development, he usually communicates more
 Technology manager rarely codes in the project. He mainly act as a reviewer and maintains the quality of the product.
 
 #### Responsibilities
+
 1. Technology ownership
 2. Communicating the technical issues related with implementation of business logic to Project Owner.
 3. Estimating each story in the backlog and prioritizing the cards with the help of Client and Project Owner.

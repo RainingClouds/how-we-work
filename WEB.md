@@ -1,13 +1,13 @@
 # Web
 There are various parameters for landing upon a particular set of technology for web applications. **Time constraints**, **client preferences**, **ready made pluggins in the project domain**, **existing competitors technology preferences and their experience**,**our preferences and experience** are a few of them.
 
-If using some framework or technology is must for a project and if we don't have the expertise in it, we actually invest time and money to learn that and make sure we use the best available technology for the current project.
+If using some framework or technology is must for a project and if we don't have the expertise in it, we invest time and money to learn it and make sure we use the best available technology for the current project.
 
-We maintain a technology battlefield, which is basically a list of technologies, that we think, are going to be dominant, and we start learning those. 
+We maintain a technology battlefield, which is the list of technologies that we think are going to be dominant in near term. We heavily invest in mastering those. 
 
 ## What do we offer for web applications ?
 ### Golang
-We love Golang, every bit of it. And we are one of the early adopters of Golang for web applications as well. Till date (Feb 2015), we have written in all, 5 web applications in Golang, and using different frameworks.
+We love Golang, every bit of it. And we are one of the early adopters of Golang for web applications as well. Till date (Feb 2015), we have written in all 5 web applications in Golang and using different frameworks.
 
 There are many advantages of using Golang over other languages for writing web applications.
 

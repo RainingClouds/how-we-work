@@ -64,7 +64,7 @@ Technology manager rarely codes in the project. He mainly act as a reviewer and 
 
 ### Developers
 
-Developers are the key factor of this entire team. And thats why we have kept the least amount of overhead (or manual processes) for the developer. Any of the bottleneck for developers is resolved on high priority. Be it related with coding or business logic or exceptions. 
+Developers are the key factor of this entire team. And thats why we have kept the least overhead for the developer. Any of the bottleneck for developers is resolved on high priority. Be it related with coding or business logic or exceptions. 
 
 #### Responsibilities
 1. Implementation is the main responsibility

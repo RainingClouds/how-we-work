@@ -35,9 +35,8 @@ Project owner is the main communication point. He will be in constant touch with
 5. Creating backlog (list of stories) for the finalized iteration.
 6. Getting approval on the current sprint plan from client.
 2. Daily communication with the client about progress of the project
-2. Daily communication with the Technology Manager about the issues, bottlenecks, dependencies.
-3. Resolving conflicts, if there are any, about the business needs and the technological capability.
-4. Resolving conflicts, if there are any, about the time estimations related to any part of the project.
+2. Daily communication with the Technology Manager about the issues, bottlenecks and dependencies.
+3. Resolving conflicts, if there are any, about the business needs, technological capability , time estimates etc.
 5. Helping Project Owners and Developers about the confusions related with business logic of the project. And also getting a word from the client if he is not sure about something.
 5. Communicating changes from client to the Technology Manager till it gets approved for development by the client and Technology manager.
 6. Getting approval from client on the delivery of the sprint.

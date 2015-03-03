@@ -1,7 +1,7 @@
 # Issue Management
 
-Issue management is kind of generic we feel. So we  split up the issue management into two things called Functional issue management and Code issue management. 
-Functional issue management is more related to the issues in business logic of the application for example issues related application flow, payment, signup, login etc. 
+Issue management is kind of generic we feel. So we split up the issue management into two things called Functional issue management and Code issue management. 
+Functional issue management is more related to the issues in business logic of the application for example issues related application flow, payment, signup, login etc.
 
 Code issue management is more related to the issues in the code, for example application crashes, non fetal exceptions, time complexity, space complexity. 
 
@@ -12,6 +12,7 @@ Functional issues does makes sense to everybody who is associated with the proje
 ## Functional Issue management
 ### Trello
 **Trello** is one of the most favorite tool inside RainingClouds for functional issue management. **Minimal learning curve, easier to understand, real world feel** are few of the strengths of this tool. Unless client opts for more advanced tool like **Pivotal** we go with Trello for functional issue management.
+
 ### Pivotal Tracker
 **Pivotal Tracker** is much more advanced tool for Agile project management. We love Pivotal for cleaner UI, and agile methodology support. There is a small learning curve for starting to use Pivotal by client. 
 

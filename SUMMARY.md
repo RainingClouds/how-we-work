@@ -7,7 +7,6 @@
    * [Android / iOS](ANDROID.md)
 * [Team Building](TEAM_BUILDING.md)
    * [Team Allocation](TEAM_ALLOCATION.md)
-   * [Finalizing Team](FINALIZING_TEAM.md)
 * [Setting Up Tools](ARSENAL.md)
    * [Project Management Tools](PROJECT_MANAGEMENT_TOOLS.md)
    * [Communication Tools](COMMUNICATION_TOOLS.md)

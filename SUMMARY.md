@@ -7,7 +7,6 @@
    * [Android / iOS](ANDROID.md)
 * [Team Building](TEAM_BUILDING.md)
    * [Team Allocation](TEAM_ALLOCATION.md)
-   * [Appointing Project Owner](APPOINTING_PROJECT_OWNER.md)
    * [Appointing Technology Owner](APPOINTING_TECHNOLOGY_OWNER.md)
    * [Finalizing Team](FINALIZING_TEAM.md)
 * [Setting Up Tools](ARSENAL.md)

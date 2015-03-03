@@ -20,7 +20,7 @@ Primary questions that we ponder on:
 Goal of the stage:
 1. Understanding the problem and the vision about the product.
 2. Understand the logical belief behind the offered solution via product.
-3. Target Customer Persona.
+
 
 Activities
 1. Create a critical path for the users to discover and use the solution offered by the Product.
@@ -40,6 +40,7 @@ Goal of the stage:
 1. Understand users point of view towards problem.
 
 Activities
+1. Create detailed Customer Persona.
 
 
 

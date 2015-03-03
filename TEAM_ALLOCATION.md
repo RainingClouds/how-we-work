@@ -84,3 +84,6 @@ Testers are as important as developers for any project. They have to understand 
 3. For web applications, doing the load testing, browser compatibility testing, writing selenium scripts for automated testing and reviewing the monitoring tools like New Relic, BugSnag to find out code related bugs.
 4. For mobile applications, testing on different form factors, testing on different devices, orientation related testing, and then reviewing logs for Garbage collector related issues. Also doing instrumentation test for finding out drawing, CPU and memory related issues.
 
+#### Finalizing Team
+
+Technology owner picks up the team based on the technology stack. At the end of this phase, we have a kick off call, including entire team and client.

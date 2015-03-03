@@ -1,7 +1,7 @@
 # Web
-There are various parameters for landing upon a particular set of technology for web applications. **Time constraints**, **client preferences**, **ready made pluggins in the project domain**, **existing competitors technology preferences and their experience**,**our preferences and experience** are a few if them.
+There are various parameters for landing upon a particular set of technology for web applications. **Time constraints**, **client preferences**, **ready made pluggins in the project domain**, **existing competitors technology preferences and their experience**,**our preferences and experience** are a few of them.
 
-If using some framework, or technology is must for a project, and if we don't have the expertise in it, we actually invest time and money to learn that, to make sure we use the best available technology for the current project.
+If using some framework or technology is must for a project and if we don't have the expertise in it, we actually invest time and money to learn that and make sure we use the best available technology for the current project.
 
 We maintain a technology battlefield, which is basically a list of technologies, that we think, are going to be dominant, and we start learning those. 
 
@@ -12,7 +12,9 @@ We love Golang, every bit of it. And we are one of the early adopters of Golang 
 There are many advantages of using Golang over other languages for writing web applications.
 
 ***
-When we built the first version of IronWorker, about 3 years ago, it was written in Ruby and the API was built on Rails. It didn’t take long for us to start getting some pretty heavy load and we quickly reached the limits of our Ruby setup. Long story short, we switched to Go. For the long story, keep reading, here's how things went down. - Iron.io
+** Experiences of IronWorker of using Golang over Ruby on Rails**
+
+When the team built the first version of IronWorker, about 3 years ago, it was written in Ruby and the API was built on Rails. It didn’t take long for us to start getting some pretty heavy load and we quickly reached the limits of our Ruby setup. Long story short, we switched to Go. For the long story, keep reading, here's how things went down. - Iron.io
 [(source)](http://blog.iron.io/2013/03/how-we-went-from-30-servers-to-2-go.html)
 
 And yes they have talked about some of the issues as well - 
@@ -25,7 +27,7 @@ I can confidently say that after two years working with Go, we made the right ch
 Is Go the next gen language we've been waiting for. It's a bit too early to say, but it's certainly off to a good start. 
 [(source)](http://blog.iron.io/2013/08/go-after-2-years-in-production.html)
 
-***
+
 | Param | Golang | Ruby on Rails |
 | -- | -- | -- |
 | Samples | 20,000 | 20,000 |
@@ -42,7 +44,6 @@ Go (1.2),Rails (Rails 4, Ruby 2.0, production mode, puma web)
 
 Benchmarks by Matt Aimonetti [(source)](https://plus.google.com/+MattAimonetti/posts/PeZk8FY3PWY)
 
-****
 
 **Advantages:**
 
@@ -52,18 +53,13 @@ Benchmarks by Matt Aimonetti [(source)](https://plus.google.com/+MattAimonetti/p
 4. Go has garbage collection.
 5. Strings and maps are built into the language.
 
-**Disadvantages:**
 
-1. Go is still an experimental language subject to change. (I suppose this could be an advantage depending on how you look at it. For most it's probably a disadvantage.)
-2. Go's not very usable on Windows yet.
-3. The packages distributed with Go are pretty useful, but there are still some libraries you'll miss. Most notably a UI toolkit.
-4. There is no support for generics in Go, although there are many discussions around it.
-
-[Source for above points](http://stackoverflow.com/a/2200447/769189)
-****
 We can keep on bragging about, why Golang is right choice for writing next gen web applications. [Here](https://code.google.com/p/go-wiki/wiki/GoUsers) is the list of organizations using Golang.
 
+
+
 ### Scala with Play framework
+
 Scala is JVM language with functional approach. Scala is the first choice of [twitter](https://twitter.com) for JVM based languages [(source)](http://www.infoq.com/articles/twitter-java-use). We love functional approach for solving problems.
 
 We write web applications in scala using [Play Framework](https://www.playframework.com/), which is robust, faster and based on [netty](http://netty.io/).

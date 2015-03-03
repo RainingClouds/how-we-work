@@ -1,5 +1,6 @@
 # Android / iOS
-**We strictly say no to HTML5 based or hybrid mobile applications.** We only work on native Android and iOS applications. 
+We only work on native Android and iOS applications.
+**We strictly say no to HTML5 based or hybrid mobile applications.** 
 
 **Why not hybrid/html5 apps ?**
 
